@@ -7,3 +7,42 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+li {
+  letter-spacing: 0.23px;
+  font-size: 15px;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.layout {
+  margin: 0 auto;
+  max-width: 760px;
+  /* padding: 0px 6.0875rem; */
+  transform: translateY(-100px);
+}
+
+.links {
+  margin: 10px 0;
+}
+
+@media only screen and (max-width: 750px) {
+  footer {
+    padding-top: 15px;
+  }
+
+  .layout {
+    padding: 0px;
+    transform: none;
+  }
+}

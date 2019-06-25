@@ -21,21 +21,15 @@ const Layout = ({ children }) => {
   return (
     <div>
       <Header siteTitle={data.site.siteMetadata.author} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: 960,
-          padding: `0px 6.0875rem 1.45rem`,
-          paddingTop: 0,
-        }}
-      >
-        <main>{children}</main>
-        {/* <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer> */}
-      </div>
+      <div className="layout">{children}</div>
+      <footer>
+        © {new Date().getFullYear()} Kevin Dang
+        <div className="links">
+          <a href="https://github.com/k-dang">Github</a> |{" "}
+          <a href="https://www.linkedin.com/in/kdang1/">LinkedIn</a> |{" "}
+          <a href="mailto:dangkevin12@gmail.com">Email Me</a>
+        </div>
+      </footer>
     </div>
   )
 }
