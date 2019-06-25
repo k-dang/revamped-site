@@ -6,9 +6,9 @@ import headerStyles from "./header.module.css"
 const Header = ({ siteTitle }) => (
   <header className={headerStyles.header}>
     <div className={headerStyles.headerRow}>
-      <h2 className={headerStyles.h2}>{siteTitle}</h2>
+      <h1 className={headerStyles.headerName}>{siteTitle}</h1>
       <a href={"Resume.pdf"}>
-        <Button buttonText="Download PDF"></Button>
+        <Button buttonText="Download Resume"></Button>
       </a>
     </div>
   </header>
