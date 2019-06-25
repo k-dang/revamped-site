@@ -1,0 +1,41 @@
+.container {
+  z-index: 1;
+  background-color: white;
+  border: 2px solid whitesmoke;
+  border-radius: 4px;
+  padding: 35px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.avatar {
+  flex: 1;
+  max-width: 50px;
+  margin-right: 8px;
+}
+
+.desc {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.name {
+  width: 100%;
+  margin: 0;
+  font-weight: 400;
+}
+
+.sub {
+  width: 100%;
+  margin: 0;
+  color: grey;
+  letter-spacing: 0.24px;
+  font-weight: 100;
+}
+
+.paragraphHeader {
+  color: royalblue;
+}
