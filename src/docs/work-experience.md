@@ -5,7 +5,7 @@ position: 1
 
 #### Full Stack Developer
 
-##### Oct 2018 - Current • &nbsp; Borrowell
+##### Oct 2018 - Current &nbsp; • &nbsp; Borrowell
 
 User Management team building OpenID Connect authentication and authorization layer for Borrowell web and mobile apps
 

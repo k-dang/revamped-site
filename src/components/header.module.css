@@ -30,6 +30,13 @@
   }
 
   .headerRow {
-    padding: 0 1rem;
+    padding: 0 0.7rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .headerRow {
+    flex-direction: column;
+    justify-content: space-evenly;
   }
 }
