@@ -1,6 +1,6 @@
 # Resume Website built with Gatsby
 
-## Pulls data from markdown files to generate content with gatby markdown source and transformation plugins with graphql
+Pulls data from markdown files to generate content with gatby markdown source and transformation plugins with graphql
 
 development site
 `gatsby develop`
