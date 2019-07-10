@@ -3,6 +3,7 @@ import React from "react"
 import resumeStyles from "./resume.module.css"
 import { graphql, useStaticQuery } from "gatsby"
 import smileySVG from "../images/upside-down-smiley.svg"
+import markGithub from "../images/mark-github.svg"
 
 export default ({ children }) => {
   const data = useStaticQuery(
@@ -30,6 +31,9 @@ export default ({ children }) => {
             {data.site.siteMetadata.jobtitle}
           </h5>
         </div>
+        <a href="https://github.com/k-dang">
+          <img width="48px" height="48px" src={markGithub} alt="github"></img>
+        </a>
       </div>
       {children}
     </div>

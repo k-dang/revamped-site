@@ -1,34 +1,30 @@
 ---
-title: "Projects"
+title: "Projects (available on Github)"
 position: 2
 ---
 
 #### Personal Website/Resume/Portfolio
 
-##### https://k-dang.github.io
+##### <https://k-dang.github.io>
 
 The website you are currently viewing built with Gatsby
 
 #### Dota Underlords Team Builder
 
-##### https://dreamy-jones-394906.netlify.com
+##### <https://dreamy-jones-394906.netlify.com>
 
 Build dota underlord team compositions and view alliance buffs
 
 #### Manga Share
 
-##### https://manga-share.herokuapp.com
+##### <https://manga-share.herokuapp.com>
 
 Web socket based website that lets users to read manga with their friends together
 
 #### Blink
 
+##### <https://github.com/k-dang/4G06>
+
 Mobile app that interfaces with android wear to provide driver status and recommendations for better driving habits
 
 Used computer vision to detect drowsiness in drivers
-
-#### Clarity Views
-
-Web app for providing source code analysis through UML generation, semantic search,and sample code snippet suggestions
-
-Created CI pipeline between Git and Travis CI to create seamless deployment process
