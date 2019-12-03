@@ -9,11 +9,11 @@ position: 2
 
 The website you are currently viewing built with Gatsby
 
-#### Dota Underlords Team Builder
+#### Team Fight Tactics Team Builder
 
-##### <https://dreamy-jones-394906.netlify.com>
+##### <https://focused-wescoff-b54157.netlify.com>
 
-Build dota underlord team compositions and view alliance buffs
+Build TFT team compositions and view synergy buffs
 
 #### Manga Share
 
