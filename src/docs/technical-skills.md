@@ -8,7 +8,6 @@ position: 4
 **Python**
 • **C#**
 • **Java**
-• **Perl**
 
 ##### Frontend
 
@@ -20,14 +19,15 @@ position: 4
 
 ##### Backend
 
-**ASP.NET Core MVC**
+**ASP.NET Core**
 • **Node.js**
 • **Django**
-• **Spring**
 • **MySQL**
 • **Oracle**
+• **Cosmos DB**
 • **MongoDB**
 • **Firebase**
+• **Azure Functions**
 
 ##### Mobile
 

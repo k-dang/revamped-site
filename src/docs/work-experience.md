@@ -3,11 +3,23 @@ title: "Work Experience"
 position: 1
 ---
 
+#### Machine Learning Engineer
+
+##### May 2021 - Current &nbsp; • &nbsp; Borrowell
+
+Deploying machine learning models into production
+
+Optimizing and maintaining as many parts of the process as possible, from data storage to feedback and monitoring
+
 #### Full Stack Developer
 
-##### Oct 2018 - Current &nbsp; • &nbsp; Borrowell
+##### Oct 2018 - May 2021 &nbsp; • &nbsp; Borrowell
 
-User Management team building OpenID Connect authentication and authorization layer for Borrowell web and mobile apps
+Built bill tracking & subscription integration for Borrowell products, worked with serverless infrastructure and messaging
+
+Implemented OpenID Connect authentication and authorization layer for Borrowell web and mobile apps
+
+Designed and developed a variety micro services focused on faster and more dynamic partner integrations
 
 #### Web Application Developer
 
