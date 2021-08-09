@@ -15,11 +15,17 @@ The website you are currently viewing built with Gatsby
 
 Build TFT team compositions and view synergy buffs
 
-#### Manga Share
+#### Manga Reader App
 
-##### <https://manga-share.herokuapp.com>
+##### <https://github.com/k-dang/manga-reader-app>
 
-Web socket based website that lets users to read manga with their friends together
+Mobile app that grabs and displays manga, includes library functionality and progress tracking
+
+#### Twitter Sentiment Analysis App
+
+##### <https://expo.io/@kdang12/SentimentApp>
+
+Mobile app that provides day to day sentiment analyis of tweets for specific companies
 
 #### Blink
 

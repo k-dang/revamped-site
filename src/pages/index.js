@@ -26,9 +26,9 @@ const IndexPage = ({ data }) => {
               )
               .map(({ node }) => (
                 <div className={indexStyles.innerleftSection} key={node.id}>
-                  <h4 className={indexStyles.heading}>
+                  <h3 className={indexStyles.heading}>
                     {node.frontmatter.title}
-                  </h4>
+                  </h3>
                   <div dangerouslySetInnerHTML={{ __html: node.html }}></div>
                 </div>
               ))}
@@ -40,9 +40,9 @@ const IndexPage = ({ data }) => {
               )
               .map(({ node }) => (
                 <div key={node.id}>
-                  <h4 className={indexStyles.heading}>
+                  <h3 className={indexStyles.heading}>
                     {node.frontmatter.title}
-                  </h4>
+                  </h3>
                   <div dangerouslySetInnerHTML={{ __html: node.html }}></div>
                 </div>
               ))}
