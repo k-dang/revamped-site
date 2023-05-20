@@ -2,14 +2,28 @@
 title: "Work Experience"
 position: 1
 ---
+#### Senior Full Stack Developer
+
+##### May 2022 - Current &nbsp; • &nbsp; Borrowell
+
+Built a team from scratch and led the development of a new product that reports user's rent payments to the credit
+bureaus
+
+Designed and implemented data processing system for determining rent payments within bank
+transaction data
+
+Architected and developed the backend infrastructure utilizing scalable and maintainable cloud
+services
 
 #### Machine Learning Engineer
 
-##### May 2021 - Current &nbsp; • &nbsp; Borrowell
+##### May 2021 - May 2022 &nbsp; • &nbsp; Borrowell
 
-Deploying machine learning models into production
+Built and deployed end-to-end machine learning pipelines
 
-Optimizing and maintaining as many parts of the process as possible, from data storage to feedback and monitoring
+Optimized and transfromed data science models for production
+
+Maintained and optimized services for feature engineering, model training and model serving
 
 #### Full Stack Developer
 

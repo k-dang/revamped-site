@@ -15,6 +15,7 @@ position: 4
 • **CSS**
 • **JS**
 • **React**
+• **React Native**
 • **Angular**
 
 ##### Backend
