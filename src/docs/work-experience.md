@@ -2,18 +2,15 @@
 title: "Work Experience"
 position: 1
 ---
-#### Senior Full Stack Developer
+#### Senior Full Stack Developer (Tech Lead)
 
 ##### May 2022 - Current &nbsp; • &nbsp; Borrowell
 
-Built a team from scratch and led the development of a new product that reports user's rent payments to the credit
-bureaus
+Built and led the development of Canada's first self rent reporting service, which unlocked a new recurring revenue stream
 
-Designed and implemented data processing system for determining rent payments within bank
-transaction data
+Built a scalable cloud-based system for rental payment detection within bank transaction data
 
-Architected and developed the backend infrastructure utilizing scalable and maintainable cloud
-services
+Pioneered the adoption of a monorepo architecture, accelerating web and mobile feature development
 
 #### Machine Learning Engineer
 
@@ -29,7 +26,7 @@ Maintained and optimized services for feature engineering, model training and mo
 
 ##### Oct 2018 - May 2021 &nbsp; • &nbsp; Borrowell
 
-Built bill tracking & subscription integration for Borrowell products, worked with serverless infrastructure and messaging
+Designed and launched bill tracking product offering, along with cash advance and bank account integration
 
 Implemented OpenID Connect authentication and authorization layer for Borrowell web and mobile apps
 

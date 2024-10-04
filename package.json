@@ -2,7 +2,7 @@
   "name": "kevin-dang-resume",
   "private": true,
   "description": "Resume website",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Kevin Dang <dangkevin12@gmail.com>",
   "dependencies": {
     "gatsby": "^2.25.0",
@@ -43,5 +43,8 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0 <17.0.0"
   }
 }

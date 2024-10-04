@@ -13,7 +13,7 @@ position: 4
 
 **HTML**
 • **CSS**
-• **JS**
+• **JavaScript**
 • **React**
 • **React Native**
 • **Angular**
